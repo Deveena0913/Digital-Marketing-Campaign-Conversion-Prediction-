@@ -45,6 +45,6 @@ CatBoost with and without over-sampling (SMOTE) chosen for high recall and balan
 In addition to the machine learning model development, we also created a Power BI dashboard to further analyze the conversion prediction results and provide interactive visualizations for stakeholders.
 <div align="center">
   <a href="https://github.com/Deveena0913/Digital-Marketing-Campaign-Conversion-Prediction-/blob/main/Digital%20Marketing%20Campaign%20Conversion%20Project%20Deveena%20Vig.pbix">
-    <img src="">
+    <img src="https://github.com/Deveena0913/Digital-Marketing-Campaign-Conversion-Prediction-/blob/main/Digital%20Marketing%20Campaign%20Conversion.png">
   </a>
 </div>
