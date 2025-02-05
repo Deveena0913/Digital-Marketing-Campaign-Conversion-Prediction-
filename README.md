@@ -20,3 +20,31 @@ The Objective of this project are as follows:
 - 8000 rows and 20 columns
 - Attributes include Demographic Information, Marketing Specific Variables, Customer Engagement Variables, Historical Variables and Conversion ( Converted for 1 and 0 for not )
 
+## Machine Learning Task:
+This project employs supervised learning, specifically a classification task, to predict converted customers. Three algorithms were utilized: Decision Tree, Random Forest, Gradient Bossting and CatBoost. Each algorithm was evaluated with and without balancing techniques, including over-sampling.
+
+## Methodology:
+### Data Analysis:
+- Exploratory Data Analysis (EDA) to understand data distribution and patterns
+- Addressing class imbalance (more converted customers than not converted)
+- Identifying factors influencing conversion
+
+### Data Preprocessing:
+- Handling missing values and outliers
+- Transforming categorical variables (using encoding)
+- Standard scaling numerical features
+
+### Model Building and Evaluation:
+- Training and evaluating models with and without data balancing
+- Metrics used: confusion matrices, precision, recall, F1-score, accuracy and PR curve.
+
+## Outcome:
+CatBoost with and without over-sampling (SMOTE) chosen for high recall and balanced performance.
+
+## Power BI Dashboard Development:
+In addition to the machine learning model development, we also created a Power BI dashboard to further analyze the churn prediction results and provide interactive visualizations for stakeholders.
+<div align="center">
+  <a href="">
+    <img src="">
+  </a>
+</div>
