@@ -42,7 +42,7 @@ This project employs supervised learning, specifically a classification task, to
 CatBoost with and without over-sampling (SMOTE) chosen for high recall and balanced performance.
 
 ## Power BI Dashboard Development:
-In addition to the machine learning model development, we also created a Power BI dashboard to further analyze the churn prediction results and provide interactive visualizations for stakeholders.
+In addition to the machine learning model development, we also created a Power BI dashboard to further analyze the conversion prediction results and provide interactive visualizations for stakeholders.
 <div align="center">
   <a href="">
     <img src="">
