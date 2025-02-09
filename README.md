@@ -32,7 +32,7 @@ This project employs supervised learning, specifically a classification task, to
 ### Data Preprocessing:
 - Handling missing values and outliers
 - Transforming categorical variables (using encoding)
-- Standard scaling numerical features
+- MinMax scaling numerical features
 
 ### Model Building and Evaluation:
 - Training and evaluating models with and without data balancing
